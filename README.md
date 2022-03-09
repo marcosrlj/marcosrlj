@@ -16,12 +16,12 @@
 <a href="https://fb.com/marcos.roberto.1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcos.roberto.1234" height="30" width="40" /></a>
 </p>
 
-<h3>### Languages and Tools:</h3>
+<h3>Languages</h3>
 
 <p>Fluent Languages:</p>
 
-<p>Portuguese</p>
-<p>English</p>
+<p>🇧🇷 Portuguese</p>
+<p>🇺🇸 English</p>
 
 <h3> My Education </h3>
   <p> I'm an undergrad in <strong>agricultural engineering</strong> in <strong> Unicamp </strong>
